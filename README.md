@@ -8,6 +8,10 @@ Minaa is an app that was made as a school final project for proof of concept and
 
 With Minaa, users can view a map with map pins that identify possible landmine locations and make reports of possible landmine locations if they come across or suspect one. Minaa is primarily a mobile application that has a supporting browser webpage for admin users to view meta data about Minaa users and reports made throught he app. 
 
+# Introduction
+
+[![image.png](https://i.postimg.cc/j2jbsDqG/image.png)](https://www.youtube.com/watch?v=wWywwmZysC0)
+
 # Before installing Minaa, you need:
  - node v16.18.1
  - once the project is cloned, run npm i to install the following dependencies
