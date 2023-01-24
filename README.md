@@ -10,6 +10,7 @@ With Minaa, users can view a map with map pins that identify possible landmine l
 
 # Introduction
 
+(Click on the image below for video introduction)
 [![image.png](https://i.postimg.cc/j2jbsDqG/image.png)](https://www.youtube.com/watch?v=wWywwmZysC0)
 
 # Before installing Minaa, you need:
